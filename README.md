@@ -127,7 +127,7 @@ To use in another project, copy the relevant HTML and CSS, update the content, a
 
 ## Conclusion
 
-MEDIBuddy is a clean, modern, and fully responsive landing page template perfect for healthcare and medical service websites. It’s easy to understand, extend, and adapt for your own projects or as a teaching resource.
+This is a clean, modern, and fully responsive landing page template perfect for healthcare and medical service websites. It’s easy to understand, extend, and adapt for your own projects or as a teaching resource.
 
 ---
 
