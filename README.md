@@ -1,12 +1,14 @@
 # Health Care - Javascript Website Template (Design-5)
 
+<img width="1204" height="735" alt="Screenshot 2025-07-28 at 23 56 16" src="https://github.com/user-attachments/assets/addf3efe-481e-4306-be51-004fc2c64557" />
+
 ---
 
 ## Project Summary
 
 This is a modern, responsive landing page template for medical and healthcare services. It demonstrates best practices in HTML and CSS for building visually appealing, accessible, and mobile-friendly web pages. The project is ideal for learning, teaching, or adapting for real-world healthcare, clinic, or service websites.
 
-- **Live Demo:** []()
+- **Live Demo:** [https://healthcare-template-5.netlify.app/](https://healthcare-template-5.netlify.app/)
 
 ---
 
