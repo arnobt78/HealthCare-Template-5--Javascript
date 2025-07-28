@@ -4,7 +4,7 @@
 
 ## Project Summary
 
-**MEDIBuddy** is a modern, responsive landing page template for medical and healthcare services. It demonstrates best practices in HTML and CSS for building visually appealing, accessible, and mobile-friendly web pages. The project is ideal for learning, teaching, or adapting for real-world healthcare, clinic, or service websites.
+This is a modern, responsive landing page template for medical and healthcare services. It demonstrates best practices in HTML and CSS for building visually appealing, accessible, and mobile-friendly web pages. The project is ideal for learning, teaching, or adapting for real-world healthcare, clinic, or service websites.
 
 - **Live Demo:** []()
 
